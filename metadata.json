@@ -1,0 +1,6 @@
+{
+  "name": "بسمله هوم",
+  "description": "متجر بسمله هوم للأدوات المنزلية والأجهزة ومستلزمات المطبخ والسفرة والحمام",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
